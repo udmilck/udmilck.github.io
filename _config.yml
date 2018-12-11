@@ -3,7 +3,7 @@ title: Lin Blog
 SEOTitle: lin的博客 | lin Blog
 header-img: img/home-bg.jpg
 email: ecustlin@hotmail.coms
-description: ""
+description: "a boring man"
 keyword: ""
 url: "https://udmilck.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-#github_username:    huxpro
-#twitter_username:  huxpro
-#facebook_username:  huxpro
+#weibo_username:     lin
+#zhihu_username:     lin
+github_username:   udmilck
+twitter_username:  ecustlin
+#facebook_username:  lin
 
 
 
@@ -43,17 +43,6 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
-
-
-# Disqus settings
-#disqus_username: _your_disqus_short_name_
-
-# Duoshuo settings
-#duoshuo_username: huxblog
-# Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: false                     # set to false if you want to use Comment without Sharing
-
 
 
 
