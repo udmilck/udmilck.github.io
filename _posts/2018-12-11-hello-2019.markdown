@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Welcome to lin Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-12-11 12:00:00
+author:     "Lin"
+header-img: "img/post-bg-2018.jpg"
+tags:
+    - 生活
+---
+Hello,blog
+
+There is nothing ,but in furture , everything you want is not a dream
+
+2018.12.11
